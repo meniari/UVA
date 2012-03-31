@@ -1,0 +1,27 @@
+24
+pile 0 over 23
+pile 1 over 23
+pile 2 over 23
+pile 3 over 23
+pile 4 over 23
+pile 5 over 23
+pile 6 over 23
+pile 7 over 23
+pile 8 over 23
+pile 9 over 23
+pile 10 over 23
+pile 11 over 23
+pile 12 over 23
+pile 13 over 23
+pile 14 over 23
+pile 15 over 23
+pile 16 over 23
+pile 17 over 23
+pile 18 over 23
+pile 19 over 23
+pile 20 over 23
+pile 21 over 23
+pile 22 over 23
+pile 23 over 23
+pile 23 onto 0
+quit
